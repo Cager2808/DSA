@@ -1,0 +1,5 @@
+//All file except src
+.settings
+bin
+.classpath
+.project
